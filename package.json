@@ -1,0 +1,26 @@
+{
+  "name": "mm-service",
+  "version": "0.0.1",
+  "description": "Multimodal interaction service ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominus-v/mm-service.git"
+  },
+  "author": "dominus-v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominus-v/mm-service/issues"
+  },
+  "homepage": "https://github.com/dominus-v/mm-service#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nconf": "^0.10.0",
+    "socket.io": "^2.1.1",
+    "underscore": "^1.9.1"
+  }
+}

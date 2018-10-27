@@ -1,0 +1,17 @@
+<% include partials/header %>
+
+
+<form action="">
+    <input id="mm-sessionId" placeholder="webSessionID">
+    <select id="mm-command">
+        <option value="register">register</option>
+        <option value="message">message</option>
+        <option value="select">select</option>
+        <option value="page.entered">page.entered</option>
+        <option value="unregister">unregister</option>
+    </select>
+    <input id="mm-message" placeholder="message"/>
+    <button>Send</button>
+</form>
+
+<% include partials/footer %>

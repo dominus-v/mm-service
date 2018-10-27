@@ -1,0 +1,14 @@
+{
+  "http": {
+    "port": 8073,
+    "URL": "http://195.144.1.232",
+    "_URL": "http://10.176.0.213"
+  },
+  "ors": {
+    "host": "10.176.0.213",
+    "port": 7210,
+    "path": "/scxml/session",
+    "requestTimeout": 2000,
+    "dataTimeout": 5000
+  }
+}
