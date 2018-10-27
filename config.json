@@ -5,7 +5,7 @@
     "_URL": ""
   },
   "ors": {
-    "host": "10.176.0.213",
+    "host": "",
     "port": 7210,
     "path": "/scxml/session",
     "requestTimeout": 2000,
